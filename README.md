@@ -1,0 +1,2 @@
+# notaescolar
+SISTEMA DE NOTA ESCOLAR COM DJANGO 3 
